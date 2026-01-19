@@ -6,6 +6,8 @@ let projectName = "My Project"
 let templates = {}
 let keys = {}
 
+let currentTab = 'code';
+
 templates.costume = `<tr><td style="padding: 5px" title="Remove">X</td><td><img style="width: 60px"></td><td class="name-box-costume">`
 templates.sound = `<tr><td style="padding: 5px" title="Remove">X</td><td><audio controls></audio></td><td class="name-box-sound">`
 templates.sprite = `<div class="sprite"><p>&times;</p><p></p></div>`
@@ -31,21 +33,36 @@ function handleGreenFlag() {
 }
 
 function switchToCode() {
+    document.getElementById(`editor-${currentTab}-button`).classList.remove('selected')
+    document.getElementById('editor-code-button').classList.add('selected')
+
     document.querySelector("#editor").hidden = false
     document.querySelector("#costume-editor").hidden = true
     document.querySelector("#sound-editor").hidden = true
+
+    currentTab = 'code'
 }
 
 function switchToCostumes() {
+    document.getElementById(`editor-${currentTab}-button`).classList.remove('selected')
+    document.getElementById('editor-costumes-button').classList.add('selected')
+
     document.querySelector("#editor").hidden = true
     document.querySelector("#costume-editor").hidden = false
     document.querySelector("#sound-editor").hidden = true
+
+    currentTab = 'costumes'
 }
 
 function switchToSounds() {
+    document.getElementById(`editor-${currentTab}-button`).classList.remove('selected')
+    document.getElementById('editor-sounds-button').classList.add('selected')
+
     document.querySelector("#editor").hidden = true
     document.querySelector("#costume-editor").hidden = true
     document.querySelector("#sound-editor").hidden = false
+
+    currentTab = 'sounds'
 }
 
 async function costumeChanged() {

@@ -1,11 +1,20 @@
 :root {
     --height: calc(100vh - 50px);
+
+    --color-brand: rgb(71, 119, 239);
+    --color-brand-dark: rgb(61, 95, 209);
+    --color-brand-very-dark: rgb(9, 63, 163);
+
+    --color-brand-highlight: rgb(170, 207, 247);
+    --color-brand-highlight-dark: rgb(130, 176, 224);
+
+    --color-turbo: rgb(255, 149, 0);
 }
 
 button {
     padding: 10px;
 
-    background-color: rgb(71, 119, 239);
+    background-color: var(--color-brand);
 
     color: white;
 
@@ -14,7 +23,26 @@ button {
 }
 
 button:hover {
-    background-color: rgb(61, 95, 209);
+    background-color: var(--color-brand-dark);
+}
+
+.tab {
+    background-color: var(--color-brand-highlight);
+    color: black;
+
+    border-radius: 15px 15px 0 0;
+}
+
+.tab:hover {
+    background-color: var(--color-brand-highlight-dark);
+    color: white;
+
+    border-radius: 15px 15px 0 0;
+}
+
+.tab.selected {
+    background-color: var(--color-brand);
+    color: white;
 }
 
 #preview {
@@ -67,12 +95,12 @@ button:hover {
     margin-right: 5px;
     margin-bottom: 5px;
 
-    background-color: rgb(170, 207, 247);
+    background-color: var(--color-brand-highlight);
     border-radius: 5px;
 }
 
 .sprite.selected {
-    background-color: rgb(71, 119, 239);
+    background-color: var(--color-brand);
     color: white;
 }
 
@@ -82,12 +110,12 @@ button:hover {
 }
 
 .sprite p:hover {
-    background-color: rgb(123, 168, 234);
+    background-color: var(--color-brand-highlight-dark);
     border-radius: 5px;
 }
 
 .sprite.selected p:hover {
-    background-color: rgb(61, 95, 209);
+    background-color: var(--color-brand-dark);
 }
 
 #buttons {
@@ -102,7 +130,7 @@ button:hover {
     margin-bottom: 5px;
     padding: 10px;
 
-    background-color: rgb(9, 63, 163);
+    background-color: var(--color-brand-very-dark);
 }
 
 #title img {
@@ -180,20 +208,6 @@ pre[class="blocks"] {
     margin: 390px 0px 0px 0px;
 }
 
-#sprite-table .sprite-item {
-    padding: 5px;
-    transition: 0.25s;
-}
-
-#sprite-table .sprite-item.selected {
-    background-color: #d8e7ff;
-    transition: 0.25s;
-}
-
-#sprite-table {
-    margin-top: 45px;
-}
-
 #new-sprite-button {
     /* margin-top: 5px; */
     margin-bottom: 10px;
@@ -204,7 +218,7 @@ pre[class="blocks"] {
     font-size: 0.7rem;
     font-weight: bold;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: hsl(37.8, 67%, 40.4%);
+    color: var(--color-turbo);
     white-space: nowrap;
     vertical-align: middle;
 }
