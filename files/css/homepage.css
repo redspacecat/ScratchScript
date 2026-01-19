@@ -1,3 +1,32 @@
+body {
+    margin: 0;
+}
+
+button {
+    padding: 10px;
+
+    background-color: rgb(71, 119, 239);
+
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgb(61, 95, 209);
+}
+
+
+.header-btn {
+    margin-left: 5px;
+}
+
+a:has(button.header-btn.left) {
+    margin-left: auto;
+}
+
+
 #container {
     width: 70%;
     margin-left: auto;
@@ -7,7 +36,17 @@
 }
 
 #title {
-    text-align: center;
+    height: 40px;
+    display: flex;
+
+    margin-bottom: 5px;
+    padding: 10px;
+
+    background-color: rgb(9, 63, 163);
+}
+
+#title img {
+    height: 40px;
 }
 
 #script-example {
@@ -24,6 +63,9 @@
 }
 
 #try-button {
+    color: black;
+    font-weight: 500;
+
     padding: 15px;
     background-color: rgb(194, 234, 221);
     border: 4px solid rgb(126, 204, 143);
@@ -49,6 +91,9 @@
 }
 
 #docs-button {
+    color: black;
+    font-weight: 400;
+
     padding: 10px;
     background-color: rgb(234, 229, 194);
     border: 4px solid rgb(208, 184, 113);
