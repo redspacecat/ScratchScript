@@ -11,7 +11,7 @@
     width: 100%;
     /* height: var(--height); */
 
-    background-color: lightblue;
+    background-color: rgb(71, 119, 239);
     /* border: 1px solid green; */
     display: flex;
     flex-direction: column;
@@ -53,12 +53,12 @@
 }
 
 .sc-root {
-    --sc-accent-color: #4192fb;
-    --sc-accent-color-transparent: #4192fb5c;
+    --sc-accent-color: rgb(71, 119, 239);
+    --sc-accent-color-transparent: rgba(42, 72, 149, 0.5);
 }
 
 #project-control-bar {
-    background-color: #c1c1c1;
+    background-color: rgb(235, 235, 235);
     user-select: none;
 }
 
@@ -70,7 +70,7 @@
 }
 
 .control-button:hover {
-    background-color: #b9b8b8;
+    background-color: rgb(202, 202, 202);
 }
 
 .project-control-table {
