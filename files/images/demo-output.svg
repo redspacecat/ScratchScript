@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewbox="0 0 319 313"
+   version="1.1"
+   id="svg40"
+   width="318.1463"
+   height="312.65045"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <defs
+     id="defs40" />
+  <xhtml:style>
+    .blocklyText {
+        fill: #FFFFFF;
+        font-family: &quot;Helvetica Neue&quot;, Helvetica, sans-serif;
+        font-size: 12pt;
+        font-weight: 500;
+    }
+    .blocklyNonEditableText&gt;text, .blocklyEditableText&gt;text {
+        fill: #575E75;
+    }
+    .blocklyDropdownText {
+        fill: #FFFFFF !important;
+    }
+  </xhtml:style>
+  <g
+     data-id="),0HB7xHefUwj[,m)9M*"
+     class="blocklyDraggable blocklySelected"
+     data-shapes="hat"
+     data-category="events"
+     transform="translate(0.5,32.150455)"
+     id="g40">
+    <path
+       class="blocklyPath blocklyBlockBackground"
+       stroke="#cc9900"
+       fill="#ffbf00"
+       fill-opacity="1"
+       d="m 0,0 c 2.6,-2.3 5.5,-4.3 8.5,-6.2 -1,-12.5 5.3,-23.3 8.4,-24.8 3.7,-1.8 16.5,13.1 18.4,15.4 8.4,-1.3 17,-1.3 25.4,0 1.9,-2.3 14.7,-17.2 18.4,-15.4 3.1,1.5 9.4,12.3 8.4,24.8 3,1.8 5.9,3.9 8.5,6.1 h 48.5 a 4,4 0 0 1 4,4 v 40 a 4,4 0 0 1 -4,4 H 48 c -2,0 -3,1 -4,2 l -4,4 c -1,1 -2,2 -4,2 H 24 c -2,0 -3,-1 -4,-2 l -4,-4 c -1,-1 -2,-2 -4,-2 H 4 a 4,4 0 0 1 -4,-4 z"
+       id="path1" />
+    <text
+       class="blocklyText"
+       y="2"
+       text-anchor="middle"
+       dominant-baseline="middle"
+       dy="0"
+       x="19.858334"
+       transform="translate(8,24)"
+       id="text1">when</text>
+    <g
+       transform="translate(55.716667,12)"
+       id="g1">
+      <image
+         height="24"
+         width="24"
+         xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIxLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9ImdyZWVuZmxhZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgdmlld0JveD0iMCAwIDI0IDI0IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNCAyNDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiM0NTk5M0Q7fQoJLnN0MXtmaWxsOiM0Q0JGNTY7fQo8L3N0eWxlPgo8dGl0bGU+Z3JlZW5mbGFnPC90aXRsZT4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTIwLjgsMy43Yy0wLjQtMC4yLTAuOS0wLjEtMS4yLDAuMmMtMiwxLjYtNC44LDEuNi02LjgsMGMtMi4zLTEuOS01LjYtMi4zLTguMy0xVjIuNWMwLTAuNi0wLjUtMS0xLTEKCXMtMSwwLjQtMSwxdjE4LjhjMCwwLjUsMC41LDEsMSwxaDAuMWMwLjUsMCwxLTAuNSwxLTF2LTYuNGMxLTAuNywyLjEtMS4yLDMuNC0xLjNjMS4yLDAsMi40LDAuNCwzLjQsMS4yYzIuOSwyLjMsNywyLjMsOS44LDAKCWMwLjMtMC4yLDAuNC0wLjUsMC40LTAuOVY0LjdDMjEuNiw0LjIsMjEuMywzLjgsMjAuOCwzLjd6IE0yMC41LDEzLjlDMjAuNSwxMy45LDIwLjUsMTMuOSwyMC41LDEzLjlDMTgsMTYsMTQuNCwxNiwxMS45LDE0CgljLTEuMS0wLjktMi41LTEuNC00LTEuNGMtMS4yLDAuMS0yLjMsMC41LTMuNCwxLjFWNEM3LDIuNiwxMCwyLjksMTIuMiw0LjZjMi40LDEuOSw1LjcsMS45LDguMSwwYzAuMSwwLDAuMSwwLDAuMiwwCgljMCwwLDAuMSwwLjEsMC4xLDAuMUwyMC41LDEzLjl6Ii8+CjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik0yMC42LDQuOGwtMC4xLDkuMWMwLDAsMCwwLjEsMCwwLjFjLTIuNSwyLTYuMSwyLTguNiwwYy0xLjEtMC45LTIuNS0xLjQtNC0xLjRjLTEuMiwwLjEtMi4zLDAuNS0zLjQsMS4xVjQKCUM3LDIuNiwxMCwyLjksMTIuMiw0LjZjMi40LDEuOSw1LjcsMS45LDguMSwwYzAuMSwwLDAuMSwwLDAuMiwwQzIwLjUsNC43LDIwLjYsNC43LDIwLjYsNC44eiIvPgo8L3N2Zz4K"
+         id="image1" />
+    </g>
+    <text
+       class="blocklyText"
+       y="2"
+       text-anchor="middle"
+       dominant-baseline="middle"
+       dy="0"
+       x="26.391666"
+       transform="translate(87.716667,24)"
+       id="text2">clicked</text>
+    <g
+       id="g6">
+      <g
+         fill="#000000"
+         id="g4">
+        <path
+           d="m 25.2,-1.1 c 0.1,0 0.2,0 0.2,0 l 8.3,-2.1 -7,-4.8 c -0.5,-0.3 -1.1,-0.2 -1.4,0.3 -0.3,0.5 -0.2,1.1 0.3,1.4 l 3.4,2.2 -4,1 c -0.5,0.1 -0.9,0.7 -0.7,1.2 0,0.5 0.4,0.8 0.9,0.8 z"
+           fill-opacity="0"
+           id="path2" />
+        <path
+           d="m 62.4,-1.1 c -0.1,0 -0.2,0 -0.2,0 l -8.3,-2.1 7,-4.8 c 0.5,-0.3 1.1,-0.2 1.4,0.3 0.3,0.5 0.2,1.1 -0.3,1.4 l -3.4,2.3 4,1 c 0.5,0.1 0.9,0.7 0.7,1.2 -0.1,0.4 -0.5,0.7 -0.9,0.7 z"
+           fill-opacity="0"
+           id="path3" />
+        <circle
+           cx="59.200001"
+           cy="-3.3"
+           r="3.4000001"
+           fill-opacity="0.6"
+           id="circle3" />
+        <circle
+           cx="29.1"
+           cy="-3.3"
+           r="3.4000001"
+           fill-opacity="0.6"
+           id="circle4" />
+        <path
+           d="m 45.6,0.1 c -0.9,0 -1.7,-0.3 -2.3,-0.9 -0.6,0.6 -1.3,0.9 -2.2,0.9 -0.9,0 -1.8,-0.3 -2.3,-0.9 -1,-1.1 -1.1,-2.6 -1.1,-2.8 0,-0.5 0.5,-1 1,-1 v 0 c 0.6,0 1,0.5 1,1 0,0.4 0.1,1.7 1.4,1.7 0.5,0 0.7,-0.2 0.8,-0.3 0.3,-0.3 0.4,-1 0.4,-1.3 0,-0.1 0,-0.1 0,-0.2 0,-0.5 0.5,-1 1,-1 v 0 c 0.5,0 1,0.4 1,1 0,0 0,0.1 0,0.2 0,0.3 0.1,0.9 0.4,1.2 0.1,0.1 0.3,0.3 0.8,0.3 0.5,0 0.7,-0.2 0.8,-0.3 0.3,-0.4 0.4,-1.1 0.3,-1.3 0,-0.5 0.4,-1 0.9,-1.1 0.5,0 1,0.4 1.1,0.9 0,0.2 0.1,1.8 -0.8,2.8 -0.3,0.6 -1,1.1 -2.2,1.1 z"
+           fill-opacity="0.6"
+           id="path4" />
+      </g>
+      <path
+         d="m 73.1,-15.6 c 1.7,-4.2 4.5,-9.1 5.8,-8.5 1.6,0.8 5.4,7.9 5,15.4 0,0.6 -0.7,0.7 -1.1,0.5 -3,-1.6 -6.4,-2.8 -8.6,-3.6 -1.4,-0.5 -1.8,-1.9 -1.1,-3.8 z"
+         fill="#ffd5e6"
+         fill-opacity=""
+         id="path5" />
+      <path
+         d="m 22.4,-15.6 c -1.7,-4.2 -4.5,-9.1 -5.8,-8.5 -1.6,0.8 -5.4,7.9 -5,15.4 0,0.6 0.7,0.7 1.1,0.5 3,-1.6 6.4,-2.8 8.6,-3.6 1.5,-0.5 1.9,-1.9 1.1,-3.8 z"
+         fill="#ffd5e6"
+         fill-opacity=""
+         id="path6" />
+    </g>
+    <g
+       data-id="Lq+kuV2gEn6L0cSgVqyU"
+       class="blocklyDraggable"
+       data-shapes="stack"
+       data-category="looks"
+       transform="translate(0,48)"
+       id="g39">
+      <path
+         class="blocklyPath blocklyBlockBackground"
+         stroke="#774dcb"
+         fill="#9966ff"
+         fill-opacity="1"
+         d="M 0,4 A 4,4 0 0 1 4,0 h 8 c 2,0 3,1 4,2 l 4,4 c 1,1 2,2 4,2 h 12 c 2,0 3,-1 4,-2 l 4,-4 c 1,-1 2,-2 4,-2 h 265.14629 a 4,4 0 0 1 4,4 v 40 a 4,4 0 0 1 -4,4 H 48 c -2,0 -3,1 -4,2 l -4,4 c -1,1 -2,2 -4,2 H 24 c -2,0 -3,-1 -4,-2 L 16,50 C 15,49 14,48 12,48 H 4 A 4,4 0 0 1 0,44 Z"
+         id="path7" />
+      <g
+         data-id="xa]?YNIC4(NeTgE?xZbw"
+         data-argument-type="text"
+         data-shapes="argument round"
+         transform="translate(48,8)"
+         id="g11">
+        <path
+           class="blocklyPath blocklyBlockBackground"
+           stroke="#774dcb"
+           fill="#ffffff"
+           fill-opacity="1"
+           d="m 0,0 m 16,0 h 82.148148 a 16,16 0 0 1 0,32 H 16 A 16,16 0 0 1 16,0 Z"
+           id="path8" />
+        <g
+           class="blocklyEditableText"
+           transform="translate(8)"
+           id="g8">
+          <text
+             class="blocklyText"
+             x="49.074074"
+             y="18"
+             dominant-baseline="middle"
+             dy="0"
+             text-anchor="middle"
+             id="text8">Hello, world!</text>
+        </g>
+        <g
+           id="g10">
+          <g
+             id="g9" />
+        </g>
+      </g>
+      <g
+         data-id="m:!4%G)9Hp?uQ.5sBqPH"
+         data-argument-type="text number"
+         data-shapes="argument round"
+         transform="translate(198.2963,8)"
+         id="g15">
+        <path
+           class="blocklyPath blocklyBlockBackground"
+           stroke="#774dcb"
+           fill="#ffffff"
+           fill-opacity="1"
+           d="m 0,0 m 16,0 h 8 a 16,16 0 0 1 0,32 H 16 A 16,16 0 0 1 16,0 Z"
+           id="path11" />
+        <g
+           class="blocklyEditableText"
+           transform="translate(8)"
+           id="g12">
+          <text
+             class="blocklyText"
+             x="12"
+             y="18"
+             dominant-baseline="middle"
+             dy="0"
+             text-anchor="middle"
+             id="text11">2</text>
+        </g>
+        <g
+           id="g14">
+          <g
+             id="g13" />
+        </g>
+      </g>
+      <text
+         class="blocklyText"
+         y="2"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         dy="0"
+         x="12.740741"
+         transform="translate(8,24)"
+         id="text15">say</text>
+      <path
+         class="blocklyPath"
+         style="visibility:hidden"
+         d=""
+         fill="#774dcb"
+         id="path15" />
+      <text
+         class="blocklyText"
+         y="2"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         dy="0"
+         x="10.074074"
+         transform="translate(170.14815,24)"
+         id="text16">for</text>
+      <path
+         class="blocklyPath"
+         style="visibility:hidden"
+         d=""
+         fill="#774dcb"
+         id="path16" />
+      <text
+         class="blocklyText"
+         y="2"
+         text-anchor="middle"
+         dominant-baseline="middle"
+         dy="0"
+         x="31.424999"
+         transform="translate(246.2963,24)"
+         id="text17">seconds</text>
+      <g
+         id="g18">
+        <g
+           id="g17" />
+      </g>
+      <g
+         data-id="pjW3Xt{8G%}NgF?po^/@"
+         class="blocklyDraggable"
+         data-shapes="stack"
+         data-category="motion"
+         transform="translate(0,48)"
+         id="g38">
+        <path
+           class="blocklyPath blocklyBlockBackground"
+           stroke="#3373cc"
+           fill="#4c97ff"
+           fill-opacity="1"
+           d="M 0,4 A 4,4 0 0 1 4,0 h 8 c 2,0 3,1 4,2 l 4,4 c 1,1 2,2 4,2 h 12 c 2,0 3,-1 4,-2 l 4,-4 c 1,-1 2,-2 4,-2 h 209.85184 a 4,4 0 0 1 4,4 v 40 a 4,4 0 0 1 -4,4 H 48 c -2,0 -3,1 -4,2 l -4,4 c -1,1 -2,2 -4,2 H 24 c -2,0 -3,-1 -4,-2 L 16,50 C 15,49 14,48 12,48 H 4 A 4,4 0 0 1 0,44 Z"
+           id="path18" />
+        <text
+           class="blocklyText"
+           y="2"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           dy="0"
+           x="61.48148"
+           transform="translate(8,24)"
+           id="text18">set rotation style</text>
+        <g
+           data-argument-type="dropdown"
+           class="blocklyEditableText"
+           transform="translate(138.96296,8)"
+           id="g19">
+          <rect
+             rx="4"
+             ry="4"
+             x="0"
+             y="0"
+             width="114.88889"
+             height="32"
+             stroke="#3373cc"
+             fill="#4c97ff"
+             class="blocklyBlockBackground"
+             fill-opacity="1"
+             id="rect18" />
+          <text
+             class="blocklyText blocklyDropdownText"
+             x="47.444443"
+             y="18"
+             dominant-baseline="middle"
+             dy="0"
+             text-anchor="middle"
+             id="text19">all around</text>
+          <image
+             height="12"
+             width="12"
+             xlink:href="data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMi43MSIgaGVpZ2h0PSI4Ljc5IiB2aWV3Qm94PSIwIDAgMTIuNzEgOC43OSI+PHRpdGxlPmRyb3Bkb3duLWFycm93PC90aXRsZT48ZyBvcGFjaXR5PSIwLjEiPjxwYXRoIGQ9Ik0xMi43MSwyLjQ0QTIuNDEsMi40MSwwLDAsMSwxMiw0LjE2TDguMDgsOC4wOGEyLjQ1LDIuNDUsMCwwLDEtMy40NSwwTDAuNzIsNC4xNkEyLjQyLDIuNDIsMCwwLDEsMCwyLjQ0LDIuNDgsMi40OCwwLDAsMSwuNzEuNzFDMSwwLjQ3LDEuNDMsMCw2LjM2LDBTMTEuNzUsMC40NiwxMiwuNzFBMi40NCwyLjQ0LDAsMCwxLDEyLjcxLDIuNDRaIiBmaWxsPSIjMjMxZjIwIi8+PC9nPjxwYXRoIGQ9Ik02LjM2LDcuNzlhMS40MywxLjQzLDAsMCwxLTEtLjQyTDEuNDIsMy40NWExLjQ0LDEuNDQsMCwwLDEsMC0yYzAuNTYtLjU2LDkuMzEtMC41Niw5Ljg3LDBhMS40NCwxLjQ0LDAsMCwxLDAsMkw3LjM3LDcuMzdBMS40MywxLjQzLDAsMCwxLDYuMzYsNy43OVoiIGZpbGw9IiNmZmYiLz48L3N2Zz4="
+             transform="translate(90.888885,11)"
+             id="image19" />
+        </g>
+        <g
+           id="g21">
+          <g
+             id="g20" />
+        </g>
+        <g
+           data-id="8!%1q+9em+#@$0,h+~?x"
+           class="blocklyDraggable"
+           data-shapes="c-block c-1"
+           data-category="control"
+           transform="translate(0,48)"
+           id="g37">
+          <path
+             class="blocklyPath blocklyBlockBackground"
+             stroke="#cf8b17"
+             fill="#ffab19"
+             fill-opacity="1"
+             d="M 0,4 A 4,4 0 0 1 4,0 h 8 c 2,0 3,1 4,2 l 4,4 c 1,1 2,2 4,2 h 12 c 2,0 3,-1 4,-2 l 4,-4 c 1,-1 2,-2 4,-2 h 108 a 4,4 0 0 1 4,4 v 40 a 4,4 0 0 1 -4,4 H 64 c -2,0 -3,1 -4,2 l -4,4 c -1,1 -2,2 -4,2 H 40 c -2,0 -3,-1 -4,-2 l -4,-4 c -1,-1 -2,-2 -4,-2 h -8 a 4,4 0 0 0 -4,4 v 40 a 4,4 0 0 0 4,4 h 8 c 2,0 3,1 4,2 l 4,4 c 1,1 2,2 4,2 h 12 c 2,0 3,-1 4,-2 l 4,-4 c 1,-1 2,-2 4,-2 h 92 v 0 a 4,4 0 0 1 4,4 v 24 a 4,4 0 0 1 -4,4 H 48 c -2,0 -3,1 -4,2 l -4,4 c -1,1 -2,2 -4,2 H 24 c -2,0 -3,-1 -4,-2 l -4,-4 c -1,-1 -2,-2 -4,-2 H 4 a 4,4 0 0 1 -4,-4 z"
+             id="path21" />
+          <g
+             data-id="fSi-n7|t?+D0WP.VQvG)"
+             data-argument-type="text number"
+             data-shapes="argument round"
+             transform="translate(63.150002,8)"
+             id="g25">
+            <path
+               class="blocklyPath blocklyBlockBackground"
+               stroke="#cf8b17"
+               fill="#ffffff"
+               fill-opacity="1"
+               d="m 0,0 m 16,0 h 8 a 16,16 0 0 1 0,32 H 16 A 16,16 0 0 1 16,0 Z"
+               id="path22" />
+            <g
+               class="blocklyEditableText"
+               transform="translate(8)"
+               id="g22">
+              <text
+                 class="blocklyText"
+                 x="12"
+                 y="18"
+                 dominant-baseline="middle"
+                 dy="0"
+                 text-anchor="middle"
+                 id="text22">24</text>
+            </g>
+            <g
+               id="g24">
+              <g
+                 id="g23" />
+            </g>
+          </g>
+          <text
+             class="blocklyText"
+             y="2"
+             text-anchor="middle"
+             dominant-baseline="middle"
+             dy="0"
+             x="23.575001"
+             transform="translate(8,24)"
+             id="text25">repeat</text>
+          <path
+             class="blocklyPath"
+             style="visibility:hidden"
+             d=""
+             fill="#cf8b17"
+             id="path25" />
+          <g
+             transform="translate(128,100)"
+             id="g26">
+            <image
+               height="24"
+               width="24"
+               xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIxLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9InJlcGVhdCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgdmlld0JveD0iMCAwIDI0IDI0IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNCAyNDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiNDRjhCMTc7fQoJLnN0MXtmaWxsOiNGRkZGRkY7fQo8L3N0eWxlPgo8dGl0bGU+cmVwZWF0PC90aXRsZT4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTIzLjMsMTFjLTAuMywwLjYtMC45LDEtMS41LDFoLTEuNmMtMC4xLDEuMy0wLjUsMi41LTEuMSwzLjZjLTAuOSwxLjctMi4zLDMuMi00LjEsNC4xCgljLTEuNywwLjktMy42LDEuMi01LjUsMC45Yy0xLjgtMC4zLTMuNS0xLjEtNC45LTIuM2MtMC43LTAuNy0wLjctMS45LDAtMi42YzAuNi0wLjYsMS42LTAuNywyLjMtMC4ySDdjMC45LDAuNiwxLjksMC45LDIuOSwwLjkKCXMxLjktMC4zLDIuNy0wLjljMS4xLTAuOCwxLjgtMi4xLDEuOC0zLjVoLTEuNWMtMC45LDAtMS43LTAuNy0xLjctMS43YzAtMC40LDAuMi0wLjksMC41LTEuMmw0LjQtNC40YzAuNy0wLjYsMS43LTAuNiwyLjQsMEwyMyw5LjIKCUMyMy41LDkuNywyMy42LDEwLjQsMjMuMywxMXoiLz4KPHBhdGggY2xhc3M9InN0MSIgZD0iTTIxLjgsMTFoLTIuNmMwLDEuNS0wLjMsMi45LTEsNC4yYy0wLjgsMS42LTIuMSwyLjgtMy43LDMuNmMtMS41LDAuOC0zLjMsMS4xLTQuOSwwLjhjLTEuNi0wLjItMy4yLTEtNC40LTIuMQoJYy0wLjQtMC4zLTAuNC0wLjktMC4xLTEuMmMwLjMtMC40LDAuOS0wLjQsMS4yLTAuMWwwLDBjMSwwLjcsMi4yLDEuMSwzLjQsMS4xczIuMy0wLjMsMy4zLTFjMC45LTAuNiwxLjYtMS41LDItMi42CgljMC4zLTAuOSwwLjQtMS44LDAuMi0yLjhoLTIuNGMtMC40LDAtMC43LTAuMy0wLjctMC43YzAtMC4yLDAuMS0wLjMsMC4yLTAuNGw0LjQtNC40YzAuMy0wLjMsMC43LTAuMywwLjksMEwyMiw5LjgKCWMwLjMsMC4zLDAuNCwwLjYsMC4zLDAuOVMyMiwxMSwyMS44LDExeiIvPgo8L3N2Zz4K"
+               id="image25" />
+          </g>
+          <g
+             id="g28">
+            <g
+               id="g27" />
+          </g>
+          <g
+             data-id="8k~%|TZQhX}6ChBt)^/z"
+             class="blocklyDraggable"
+             data-shapes="stack"
+             data-category="motion"
+             transform="translate(16,48)"
+             id="g36">
+            <path
+               class="blocklyPath blocklyBlockBackground"
+               stroke="#3373cc"
+               fill="#4c97ff"
+               fill-opacity="1"
+               d="M 0,4 A 4,4 0 0 1 4,0 h 8 c 2,0 3,1 4,2 l 4,4 c 1,1 2,2 4,2 h 12 c 2,0 3,-1 4,-2 l 4,-4 c 1,-1 2,-2 4,-2 h 141.18518 a 4,4 0 0 1 4,4 v 40 a 4,4 0 0 1 -4,4 H 48 c -2,0 -3,1 -4,2 l -4,4 c -1,1 -2,2 -4,2 H 24 c -2,0 -3,-1 -4,-2 L 16,50 C 15,49 14,48 12,48 H 4 A 4,4 0 0 1 0,44 Z"
+               id="path28" />
+            <g
+               data-id="yZtaLCHat^fotUEmm0q,"
+               data-argument-type="text number"
+               data-shapes="argument round"
+               transform="translate(77.629629,8)"
+               id="g32">
+              <path
+                 class="blocklyPath blocklyBlockBackground"
+                 stroke="#3373cc"
+                 fill="#ffffff"
+                 fill-opacity="1"
+                 d="m 0,0 m 16,0 h 8 a 16,16 0 0 1 0,32 H 16 A 16,16 0 0 1 16,0 Z"
+                 id="path29" />
+              <g
+                 class="blocklyEditableText"
+                 transform="translate(8)"
+                 id="g29">
+                <text
+                   class="blocklyText"
+                   x="12"
+                   y="18"
+                   dominant-baseline="middle"
+                   dy="0"
+                   text-anchor="middle"
+                   id="text29">15</text>
+              </g>
+              <g
+                 id="g31">
+                <g
+                   id="g30" />
+              </g>
+            </g>
+            <text
+               class="blocklyText"
+               y="2"
+               text-anchor="middle"
+               dominant-baseline="middle"
+               dy="0"
+               x="14.814815"
+               transform="translate(8,24)"
+               id="text32">turn</text>
+            <g
+               transform="translate(45.629629,12)"
+               id="g33">
+              <image
+                 height="24"
+                 width="24"
+                 xlink:href="data:image/svg+xml;base64,PHN2ZyBpZD0icm90YXRlLWNvdW50ZXItY2xvY2t3aXNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiMzZDc5Y2M7fS5jbHMtMntmaWxsOiNmZmY7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5yb3RhdGUtY291bnRlci1jbG9ja3dpc2U8L3RpdGxlPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTIyLjY4LDEyLjJhMS42LDEuNiwwLDAsMS0xLjI3LjYzSDEzLjcyYTEuNTksMS41OSwwLDAsMS0xLjE2LTIuNThsMS4xMi0xLjQxYTQuODIsNC44MiwwLDAsMC0zLjE0LS43Nyw0LjMxLDQuMzEsMCwwLDAtMiwuOCw0LjI1LDQuMjUsMCwwLDAtMS4zNCwxLjczLDUuMDYsNS4wNiwwLDAsMCwuNTQsNC42MkE1LjU4LDUuNTgsMCwwLDAsMTIsMTcuNzRoMGEyLjI2LDIuMjYsMCwwLDEtLjE2LDQuNTJBMTAuMjUsMTAuMjUsMCwwLDEsMy43NCwxOCwxMC4xNCwxMC4xNCwwLDAsMSwyLjI1LDguNzgsOS43LDkuNywwLDAsMSw1LjA4LDQuNjQsOS45Miw5LjkyLDAsMCwxLDkuNjYsMi41YTEwLjY2LDEwLjY2LDAsMCwxLDcuNzIsMS42OGwxLjA4LTEuMzVhMS41NywxLjU3LDAsMCwxLDEuMjQtLjYsMS42LDEuNiwwLDAsMSwxLjU0LDEuMjFsMS43LDcuMzdBMS41NywxLjU3LDAsMCwxLDIyLjY4LDEyLjJaIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNMjEuMzgsMTEuODNIMTMuNzdhLjU5LjU5LDAsMCwxLS40My0xbDEuNzUtMi4xOWE1LjksNS45LDAsMCwwLTQuNy0xLjU4LDUuMDcsNS4wNywwLDAsMC00LjExLDMuMTdBNiw2LDAsMCwwLDcsMTUuNzdhNi41MSw2LjUxLDAsMCwwLDUsMi45MiwxLjMxLDEuMzEsMCwwLDEtLjA4LDIuNjIsOS4zLDkuMywwLDAsMS03LjM1LTMuODJBOS4xNiw5LjE2LDAsMCwxLDMuMTcsOS4xMiw4LjUxLDguNTEsMCwwLDEsNS43MSw1LjQsOC43Niw4Ljc2LDAsMCwxLDkuODIsMy40OGE5LjcxLDkuNzEsMCwwLDEsNy43NSwyLjA3bDEuNjctMi4xYS41OS41OSwwLDAsMSwxLC4yMUwyMiwxMS4wOEEuNTkuNTksMCwwLDEsMjEuMzgsMTEuODNaIi8+PC9zdmc+"
+                 id="image32" />
+            </g>
+            <path
+               class="blocklyPath"
+               style="visibility:hidden"
+               d=""
+               fill="#3373cc"
+               id="path33" />
+            <text
+               class="blocklyText"
+               y="2"
+               text-anchor="middle"
+               dominant-baseline="middle"
+               dy="0"
+               x="29.777777"
+               transform="translate(125.62963,24)"
+               id="text33">degrees</text>
+            <g
+               id="g35">
+              <g
+                 id="g34" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
